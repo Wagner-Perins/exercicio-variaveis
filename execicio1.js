@@ -1,2 +1,2 @@
-const cidade = 'Barracão'
-console.log(cidade)
+const cidade = 'Barracão';
+console.log(cidade);
